@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 2,
+      "text": "AOT",
+      "day": "April 28th 2023",
+      "reminder": false
+    },
+    {
+      "text": "New Task",
+      "day": "Monday",
+      "reminder": false,
+      "id": 3
+    },
+    {
+      "text": "Take Test",
+      "day": "Friday",
+      "reminder": false,
+      "id": 4
+    }
+  ]
+}
